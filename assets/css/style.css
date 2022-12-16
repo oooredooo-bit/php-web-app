@@ -1,0 +1,42 @@
+body {
+	background-color: #D3D3D3;
+}
+
+header {
+	padding: 10px;
+	border-bottom: 1px solid gray;
+	opacity: 0.5;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	text-align: center;
+	padding: 10px;
+	border-top: 1px solid gray;
+	opacity: 0.5;
+}
+
+nav {
+	display: inline-block;
+	margin-top: 15px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul li {
+	float: left;
+	margin-right: 50px;
+}
+
+#container {
+	padding: 10px;
+}
+
+.login-form {
+	padding-left: 10px;
+}

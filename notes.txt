@@ -1,0 +1,6 @@
+FILE UPLOAD
+    - enctype=multipart/form-data
+    - $_FILES
+    - move_uploaded_file
+
+jQUERY
